@@ -1,2 +1,1 @@
-# glitch-heavey
-THe glitch.com version of author Bill Heavey's website
+##Bill Heavey, author and outdoor writer.   <:)))><
